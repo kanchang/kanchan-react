@@ -1,0 +1,14 @@
+/* Search */
+.search-container {
+  display: flex;
+  align-items: center;
+}
+.search-container h1 {
+  font-size: 1.4rem;
+}
+.search-container input {
+  margin-left: 2rem;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid lightgrey;
+}
